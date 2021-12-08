@@ -11,3 +11,6 @@ im using the OpenWeather One Call API (Links to an external site.)
 html 
 css 
 and javascript 
+
+my deployed pages 
+https://sirbenji03.github.io/Weather-Dashboard/
