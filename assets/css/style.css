@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background: white;
+    background-repeat: no-repeat;
+    color: black;
+  }
+  img {
+    width: 100px;
+    height: 100px;
+  }
+  footer p {
+    color: white;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    text-align: left;
+    border-bottom: 1px blue dotted;
+  }
+  .cardColor {
+    padding: 20px;
+    background: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
+    color: white;
+    float: left;
+    margin: 10px;
+    border: 1px solid lightgray;
+  }
+  .currentCard {
+    background-color: #fff;
+    font-weight: 600;
+    color: black;
+  }
+  .list-group .list {
+    color: #254f92;
+  }
+  .input {
+    color: #393e46;
+  }
+  .header-card {
+      background: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
+  }
+  h1 {
+      color: #fff;
+  }
+
+  .cityBtn {
+      display: block;
+      background-color: grey;
+      text-align: center;
+      color: white;
+      margin-bottom: 20px;
+  }
